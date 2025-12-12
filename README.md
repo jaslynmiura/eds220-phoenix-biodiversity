@@ -14,10 +14,10 @@ This repository contains materials for task 2 of the final project, of the cours
 
 ## Data
 
-- Biodiversity Intactness Index (BII) Time Series: Retrieved from the Microsoft Planetary Computer STAC catalog, specifically the `io-biodiversity` collection. Datasets contain estimates of terrestrial Biodiversity Intactness as 100-meter gridded rasters for the years 2017-2020.
+- Biodiversity Intactness Index (BII) Time Series: Accessed from the Microsoft Planetary Computer STAC catalog, specifically the `io-biodiversity` collection. Datasets contain estimates of terrestrial Biodiversity Intactness as 100-meter gridded rasters for the years 2017-2020.
     - Date Accessed: December 4, 2025
 
-- Phoenix Subdivision Shapefile: Retrieved from the United States Census Bureau, Geography Division. The dataframe contains census geometries for the state of Arizona
+- Phoenix Subdivision Shapefile: Accessed from the United States Census Bureau, Geography Division. The dataframe contains census geometries for the state of Arizona
     - Date Accessed: November 19, 2025
  
 ## References
